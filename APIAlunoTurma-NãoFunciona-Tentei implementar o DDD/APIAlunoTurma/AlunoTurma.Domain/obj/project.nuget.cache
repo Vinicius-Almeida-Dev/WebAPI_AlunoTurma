@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EVGbb3rCsyS/U6sii5PSMIzRa1uj3aM8cKXC5Mri3JTGrPPWk+XtI6+/5TQOSuKhxO3c/KqKCoHbdJWnsiFT3g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vinicius\\Desktop\\AngeAjudou\\WebAPI_AlunoTurma-main\\APIAlunoTurma\\AlunoTurma.Domain\\AlunoTurma.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vinicius\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512"
+  ],
+  "logs": []
+}

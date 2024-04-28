@@ -1,0 +1,30 @@
+C:\Users\Allisson Sá\Downloads\WebAPI_AlunoTurma-main\WebAPI_AlunoTurma-main\APIAlunoTurma\APIAlunoTurma.Applicatiion\bin\Debug\net8.0\AlunoTurma.Application.deps.json
+C:\Users\Allisson Sá\Downloads\WebAPI_AlunoTurma-main\WebAPI_AlunoTurma-main\APIAlunoTurma\APIAlunoTurma.Applicatiion\bin\Debug\net8.0\AlunoTurma.Application.dll
+C:\Users\Allisson Sá\Downloads\WebAPI_AlunoTurma-main\WebAPI_AlunoTurma-main\APIAlunoTurma\APIAlunoTurma.Applicatiion\bin\Debug\net8.0\AlunoTurma.Application.pdb
+C:\Users\Allisson Sá\Downloads\WebAPI_AlunoTurma-main\WebAPI_AlunoTurma-main\APIAlunoTurma\APIAlunoTurma.Applicatiion\bin\Debug\net8.0\AlunoTurma.Domain.dll
+C:\Users\Allisson Sá\Downloads\WebAPI_AlunoTurma-main\WebAPI_AlunoTurma-main\APIAlunoTurma\APIAlunoTurma.Applicatiion\bin\Debug\net8.0\AlunoTurma.Domain.pdb
+C:\Users\Allisson Sá\Downloads\WebAPI_AlunoTurma-main\WebAPI_AlunoTurma-main\APIAlunoTurma\APIAlunoTurma.Applicatiion\obj\Debug\net8.0\AlunoTurma.Application.csproj.AssemblyReference.cache
+C:\Users\Allisson Sá\Downloads\WebAPI_AlunoTurma-main\WebAPI_AlunoTurma-main\APIAlunoTurma\APIAlunoTurma.Applicatiion\obj\Debug\net8.0\AlunoTurma.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Allisson Sá\Downloads\WebAPI_AlunoTurma-main\WebAPI_AlunoTurma-main\APIAlunoTurma\APIAlunoTurma.Applicatiion\obj\Debug\net8.0\AlunoTurma.Application.AssemblyInfoInputs.cache
+C:\Users\Allisson Sá\Downloads\WebAPI_AlunoTurma-main\WebAPI_AlunoTurma-main\APIAlunoTurma\APIAlunoTurma.Applicatiion\obj\Debug\net8.0\AlunoTurma.Application.AssemblyInfo.cs
+C:\Users\Allisson Sá\Downloads\WebAPI_AlunoTurma-main\WebAPI_AlunoTurma-main\APIAlunoTurma\APIAlunoTurma.Applicatiion\obj\Debug\net8.0\AlunoTurma.Application.csproj.CoreCompileInputs.cache
+C:\Users\Allisson Sá\Downloads\WebAPI_AlunoTurma-main\WebAPI_AlunoTurma-main\APIAlunoTurma\APIAlunoTurma.Applicatiion\obj\Debug\net8.0\AlunoTur.C0C60A49.Up2Date
+C:\Users\Allisson Sá\Downloads\WebAPI_AlunoTurma-main\WebAPI_AlunoTurma-main\APIAlunoTurma\APIAlunoTurma.Applicatiion\obj\Debug\net8.0\AlunoTurma.Application.dll
+C:\Users\Allisson Sá\Downloads\WebAPI_AlunoTurma-main\WebAPI_AlunoTurma-main\APIAlunoTurma\APIAlunoTurma.Applicatiion\obj\Debug\net8.0\refint\AlunoTurma.Application.dll
+C:\Users\Allisson Sá\Downloads\WebAPI_AlunoTurma-main\WebAPI_AlunoTurma-main\APIAlunoTurma\APIAlunoTurma.Applicatiion\obj\Debug\net8.0\AlunoTurma.Application.pdb
+C:\Users\Allisson Sá\Downloads\WebAPI_AlunoTurma-main\WebAPI_AlunoTurma-main\APIAlunoTurma\APIAlunoTurma.Applicatiion\obj\Debug\net8.0\ref\AlunoTurma.Application.dll
+C:\Users\Vinicius\Desktop\AngeAjudou\WebAPI_AlunoTurma-main\APIAlunoTurma\AlunoTurma.Applicatiion\obj\Debug\net8.0\AlunoTurma.Application.dll
+C:\Users\Vinicius\Desktop\AngeAjudou\WebAPI_AlunoTurma-main\APIAlunoTurma\AlunoTurma.Applicatiion\obj\Debug\net8.0\refint\AlunoTurma.Application.dll
+C:\Users\Vinicius\Desktop\AngeAjudou\WebAPI_AlunoTurma-main\APIAlunoTurma\AlunoTurma.Applicatiion\obj\Debug\net8.0\AlunoTurma.Application.pdb
+C:\Users\Vinicius\Desktop\AngeAjudou\WebAPI_AlunoTurma-main\APIAlunoTurma\AlunoTurma.Applicatiion\bin\Debug\net8.0\AlunoTurma.Application.deps.json
+C:\Users\Vinicius\Desktop\AngeAjudou\WebAPI_AlunoTurma-main\APIAlunoTurma\AlunoTurma.Applicatiion\bin\Debug\net8.0\AlunoTurma.Application.dll
+C:\Users\Vinicius\Desktop\AngeAjudou\WebAPI_AlunoTurma-main\APIAlunoTurma\AlunoTurma.Applicatiion\bin\Debug\net8.0\AlunoTurma.Application.pdb
+C:\Users\Vinicius\Desktop\AngeAjudou\WebAPI_AlunoTurma-main\APIAlunoTurma\AlunoTurma.Applicatiion\bin\Debug\net8.0\AlunoTurma.Domain.dll
+C:\Users\Vinicius\Desktop\AngeAjudou\WebAPI_AlunoTurma-main\APIAlunoTurma\AlunoTurma.Applicatiion\bin\Debug\net8.0\AlunoTurma.Domain.pdb
+C:\Users\Vinicius\Desktop\AngeAjudou\WebAPI_AlunoTurma-main\APIAlunoTurma\AlunoTurma.Applicatiion\obj\Debug\net8.0\AlunoTurma.Application.csproj.AssemblyReference.cache
+C:\Users\Vinicius\Desktop\AngeAjudou\WebAPI_AlunoTurma-main\APIAlunoTurma\AlunoTurma.Applicatiion\obj\Debug\net8.0\AlunoTurma.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\Desktop\AngeAjudou\WebAPI_AlunoTurma-main\APIAlunoTurma\AlunoTurma.Applicatiion\obj\Debug\net8.0\AlunoTurma.Application.AssemblyInfoInputs.cache
+C:\Users\Vinicius\Desktop\AngeAjudou\WebAPI_AlunoTurma-main\APIAlunoTurma\AlunoTurma.Applicatiion\obj\Debug\net8.0\AlunoTurma.Application.AssemblyInfo.cs
+C:\Users\Vinicius\Desktop\AngeAjudou\WebAPI_AlunoTurma-main\APIAlunoTurma\AlunoTurma.Applicatiion\obj\Debug\net8.0\AlunoTurma.Application.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Desktop\AngeAjudou\WebAPI_AlunoTurma-main\APIAlunoTurma\AlunoTurma.Applicatiion\obj\Debug\net8.0\AlunoTur.C0C60A49.Up2Date
+C:\Users\Vinicius\Desktop\AngeAjudou\WebAPI_AlunoTurma-main\APIAlunoTurma\AlunoTurma.Applicatiion\obj\Debug\net8.0\ref\AlunoTurma.Application.dll

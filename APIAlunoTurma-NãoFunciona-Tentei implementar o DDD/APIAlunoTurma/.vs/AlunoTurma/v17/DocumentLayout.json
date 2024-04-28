@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vinicius\\Desktop\\AngeAjudou\\WebAPI_AlunoTurma-main\\APIAlunoTurma\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0615E1-ED49-4EB3-9042-D3932A38603A}|AlunoTurma\\AlunoTurma.API.csproj|c:\\users\\vinicius\\desktop\\angeajudou\\webapi_alunoturma-main\\apialunoturma\\alunoturma\\controllers\\alunoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0615E1-ED49-4EB3-9042-D3932A38603A}|AlunoTurma\\AlunoTurma.API.csproj|solutionrelative:alunoturma\\controllers\\alunoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0615E1-ED49-4EB3-9042-D3932A38603A}|AlunoTurma\\AlunoTurma.API.csproj|c:\\users\\vinicius\\desktop\\angeajudou\\webapi_alunoturma-main\\apialunoturma\\alunoturma\\alunoturma.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4F0615E1-ED49-4EB3-9042-D3932A38603A}|AlunoTurma\\AlunoTurma.API.csproj|solutionrelative:alunoturma\\alunoturma.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A3399D-080C-4E51-8FC9-C71C025E422E}|AlunoTurma.infrastructure\\AlunoTurma.Infrastructure.csproj|c:\\users\\vinicius\\desktop\\angeajudou\\webapi_alunoturma-main\\apialunoturma\\alunoturma.infrastructure\\alunoturma.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{68A3399D-080C-4E51-8FC9-C71C025E422E}|AlunoTurma.infrastructure\\AlunoTurma.Infrastructure.csproj|solutionrelative:alunoturma.infrastructure\\alunoturma.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D87BE9-3CC2-41EA-AC73-35E3FD4C79E4}|AlunoTurma.Applicatiion\\AlunoTurma.Application.csproj|c:\\users\\vinicius\\desktop\\angeajudou\\webapi_alunoturma-main\\apialunoturma\\alunoturma.applicatiion\\alunoturma.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{43D87BE9-3CC2-41EA-AC73-35E3FD4C79E4}|AlunoTurma.Applicatiion\\AlunoTurma.Application.csproj|solutionrelative:alunoturma.applicatiion\\alunoturma.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AlunosController.cs",
+              "DocumentMoniker": "C:\\Users\\Vinicius\\Desktop\\AngeAjudou\\WebAPI_AlunoTurma-main\\APIAlunoTurma\\AlunoTurma\\Controllers\\AlunosController.cs",
+              "RelativeDocumentMoniker": "AlunoTurma\\Controllers\\AlunosController.cs",
+              "ToolTip": "C:\\Users\\Vinicius\\Desktop\\AngeAjudou\\WebAPI_AlunoTurma-main\\APIAlunoTurma\\AlunoTurma\\Controllers\\AlunosController.cs",
+              "RelativeToolTip": "AlunoTurma\\Controllers\\AlunosController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T02:53:36.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AlunoTurma.API",
+              "DocumentMoniker": "C:\\Users\\Vinicius\\Desktop\\AngeAjudou\\WebAPI_AlunoTurma-main\\APIAlunoTurma\\AlunoTurma\\AlunoTurma.API.csproj",
+              "RelativeDocumentMoniker": "AlunoTurma\\AlunoTurma.API.csproj",
+              "ToolTip": "C:\\Users\\Vinicius\\Desktop\\AngeAjudou\\WebAPI_AlunoTurma-main\\APIAlunoTurma\\AlunoTurma\\AlunoTurma.API.csproj",
+              "RelativeToolTip": "AlunoTurma\\AlunoTurma.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-28T02:50:05.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AlunoTurma.Application",
+              "DocumentMoniker": "C:\\Users\\Vinicius\\Desktop\\AngeAjudou\\WebAPI_AlunoTurma-main\\APIAlunoTurma\\AlunoTurma.Applicatiion\\AlunoTurma.Application.csproj",
+              "RelativeDocumentMoniker": "AlunoTurma.Applicatiion\\AlunoTurma.Application.csproj",
+              "ToolTip": "C:\\Users\\Vinicius\\Desktop\\AngeAjudou\\WebAPI_AlunoTurma-main\\APIAlunoTurma\\AlunoTurma.Applicatiion\\AlunoTurma.Application.csproj",
+              "RelativeToolTip": "AlunoTurma.Applicatiion\\AlunoTurma.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-28T02:49:41.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AlunoTurma.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\Vinicius\\Desktop\\AngeAjudou\\WebAPI_AlunoTurma-main\\APIAlunoTurma\\AlunoTurma.infrastructure\\AlunoTurma.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "AlunoTurma.infrastructure\\AlunoTurma.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Vinicius\\Desktop\\AngeAjudou\\WebAPI_AlunoTurma-main\\APIAlunoTurma\\AlunoTurma.infrastructure\\AlunoTurma.Infrastructure.csproj",
+              "RelativeToolTip": "AlunoTurma.infrastructure\\AlunoTurma.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-28T02:49:30.054Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
