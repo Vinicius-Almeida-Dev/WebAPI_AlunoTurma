@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vinicius\\Desktop\\TesteTecnicoDotNet\\APIAlunoTurma\\APIAlunoTurma\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0615E1-ED49-4EB3-9042-D3932A38603A}|APIAlunoTurma\\APIAlunoTurma.csproj|c:\\users\\vinicius\\desktop\\testetecnicodotnet\\apialunoturma\\apialunoturma\\apialunoturma\\controllers\\alunoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0615E1-ED49-4EB3-9042-D3932A38603A}|APIAlunoTurma\\APIAlunoTurma.csproj|solutionrelative:apialunoturma\\controllers\\alunoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0615E1-ED49-4EB3-9042-D3932A38603A}|APIAlunoTurma\\APIAlunoTurma.csproj|c:\\users\\vinicius\\desktop\\testetecnicodotnet\\apialunoturma\\apialunoturma\\apialunoturma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0615E1-ED49-4EB3-9042-D3932A38603A}|APIAlunoTurma\\APIAlunoTurma.csproj|solutionrelative:apialunoturma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0615E1-ED49-4EB3-9042-D3932A38603A}|APIAlunoTurma\\APIAlunoTurma.csproj|c:\\users\\vinicius\\desktop\\testetecnicodotnet\\apialunoturma\\apialunoturma\\apialunoturma\\controllers\\alunosturmascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0615E1-ED49-4EB3-9042-D3932A38603A}|APIAlunoTurma\\APIAlunoTurma.csproj|solutionrelative:apialunoturma\\controllers\\alunosturmascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0615E1-ED49-4EB3-9042-D3932A38603A}|APIAlunoTurma\\APIAlunoTurma.csproj|c:\\users\\vinicius\\desktop\\testetecnicodotnet\\apialunoturma\\apialunoturma\\apialunoturma\\controllers\\turmascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0615E1-ED49-4EB3-9042-D3932A38603A}|APIAlunoTurma\\APIAlunoTurma.csproj|solutionrelative:apialunoturma\\controllers\\turmascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0615E1-ED49-4EB3-9042-D3932A38603A}|APIAlunoTurma\\APIAlunoTurma.csproj|c:\\users\\vinicius\\desktop\\testetecnicodotnet\\apialunoturma\\apialunoturma\\apialunoturma\\extensions\\apiexceptionmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0615E1-ED49-4EB3-9042-D3932A38603A}|APIAlunoTurma\\APIAlunoTurma.csproj|solutionrelative:apialunoturma\\extensions\\apiexceptionmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0615E1-ED49-4EB3-9042-D3932A38603A}|APIAlunoTurma\\APIAlunoTurma.csproj|c:\\users\\vinicius\\desktop\\testetecnicodotnet\\apialunoturma\\apialunoturma\\apialunoturma\\models\\errordetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0615E1-ED49-4EB3-9042-D3932A38603A}|APIAlunoTurma\\APIAlunoTurma.csproj|solutionrelative:apialunoturma\\models\\errordetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApiExceptionMiddlewareExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Vinicius\\Desktop\\TesteTecnicoDotNet\\APIAlunoTurma\\APIAlunoTurma\\APIAlunoTurma\\Extensions\\ApiExceptionMiddlewareExtensions.cs",
+              "RelativeDocumentMoniker": "APIAlunoTurma\\Extensions\\ApiExceptionMiddlewareExtensions.cs",
+              "ToolTip": "C:\\Users\\Vinicius\\Desktop\\TesteTecnicoDotNet\\APIAlunoTurma\\APIAlunoTurma\\APIAlunoTurma\\Extensions\\ApiExceptionMiddlewareExtensions.cs",
+              "RelativeToolTip": "APIAlunoTurma\\Extensions\\ApiExceptionMiddlewareExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T23:07:40.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Vinicius\\Desktop\\TesteTecnicoDotNet\\APIAlunoTurma\\APIAlunoTurma\\APIAlunoTurma\\Models\\ErrorDetails.cs",
+              "RelativeDocumentMoniker": "APIAlunoTurma\\Models\\ErrorDetails.cs",
+              "ToolTip": "C:\\Users\\Vinicius\\Desktop\\TesteTecnicoDotNet\\APIAlunoTurma\\APIAlunoTurma\\APIAlunoTurma\\Models\\ErrorDetails.cs",
+              "RelativeToolTip": "APIAlunoTurma\\Models\\ErrorDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T23:04:26.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vinicius\\Desktop\\TesteTecnicoDotNet\\APIAlunoTurma\\APIAlunoTurma\\APIAlunoTurma\\Program.cs",
+              "RelativeDocumentMoniker": "APIAlunoTurma\\Program.cs",
+              "ToolTip": "C:\\Users\\Vinicius\\Desktop\\TesteTecnicoDotNet\\APIAlunoTurma\\APIAlunoTurma\\APIAlunoTurma\\Program.cs",
+              "RelativeToolTip": "APIAlunoTurma\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T22:59:00.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AlunosTurmasController.cs",
+              "DocumentMoniker": "C:\\Users\\Vinicius\\Desktop\\TesteTecnicoDotNet\\APIAlunoTurma\\APIAlunoTurma\\APIAlunoTurma\\Controllers\\AlunosTurmasController.cs",
+              "RelativeDocumentMoniker": "APIAlunoTurma\\Controllers\\AlunosTurmasController.cs",
+              "ToolTip": "C:\\Users\\Vinicius\\Desktop\\TesteTecnicoDotNet\\APIAlunoTurma\\APIAlunoTurma\\APIAlunoTurma\\Controllers\\AlunosTurmasController.cs",
+              "RelativeToolTip": "APIAlunoTurma\\Controllers\\AlunosTurmasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T20:22:17.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AlunosController.cs",
+              "DocumentMoniker": "C:\\Users\\Vinicius\\Desktop\\TesteTecnicoDotNet\\APIAlunoTurma\\APIAlunoTurma\\APIAlunoTurma\\Controllers\\AlunosController.cs",
+              "RelativeDocumentMoniker": "APIAlunoTurma\\Controllers\\AlunosController.cs",
+              "ToolTip": "C:\\Users\\Vinicius\\Desktop\\TesteTecnicoDotNet\\APIAlunoTurma\\APIAlunoTurma\\APIAlunoTurma\\Controllers\\AlunosController.cs",
+              "RelativeToolTip": "APIAlunoTurma\\Controllers\\AlunosController.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAwwGoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T21:58:28.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TurmasController.cs",
+              "DocumentMoniker": "C:\\Users\\Vinicius\\Desktop\\TesteTecnicoDotNet\\APIAlunoTurma\\APIAlunoTurma\\APIAlunoTurma\\Controllers\\TurmasController.cs",
+              "RelativeDocumentMoniker": "APIAlunoTurma\\Controllers\\TurmasController.cs",
+              "ToolTip": "C:\\Users\\Vinicius\\Desktop\\TesteTecnicoDotNet\\APIAlunoTurma\\APIAlunoTurma\\APIAlunoTurma\\Controllers\\TurmasController.cs",
+              "RelativeToolTip": "APIAlunoTurma\\Controllers\\TurmasController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAwCEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T19:46:51.677Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
